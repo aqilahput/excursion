@@ -50,3 +50,14 @@ img {
     width: 50px;
     height: auto;
 }
+footer {
+    background-color: #333; 
+    color: white; 
+    padding: 20px 0; 
+    text-align: center; 
+  }
+  
+  footer p {
+    margin: 0; 
+    font-size: 14px; 
+  }
